@@ -1,3 +1,1 @@
-First thing first
-Second time
-dfasdf
+Ponešto o HTML-u i CSS-u
