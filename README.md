@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>testiranje aj</title>
   <link rel="stylesheet" href="obrisati.css">
 </head>
 <body>
