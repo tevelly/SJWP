@@ -22,6 +22,7 @@
     <h2>Što je programiranje?</h2>
     <p>Programiranje je proces pisanja uputa koje računalo može izvršiti.</p>
   </section>
+     <p> Link na <a href="ValuesAndUnits/index.html">ValuesAndUnits</a> </p>
 </main>
 <footer>
   <p>&copy; 2023 Programiranje</p>
